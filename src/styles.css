@@ -51,7 +51,13 @@ h1 {
   font-weight: 400;
   line-height: 0.8;
   margin: 0;
+  
 }
+/* we are adding custom color as white */
+.white{
+  color: white;
+}
+
 
 h2 {
   font-size: 2rem;
