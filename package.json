@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://sameer1sheikh2mansoori3.github.io/portfolio",
+  "homepage": "https://sameer1sheikh2mansoori3.github.io/aadifoundationDAY1",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{sameer1sheikh2mansoori3}.github.io/{aadifoundationDAY1}'",
+    "build-gh": "parcel build --public-url 'https://sameer1sheikh2mansoori3.github.io/aadifoundationDAY1'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
